@@ -46,6 +46,3 @@ def queuePrinter( buffersize, capacities, documents ):
 # output = queuePrinter(bufferSize, capacities, documents)
 # print(output)
 # # 8
-result = queuePrinter(78, 100, [30, 32, 40, 15, 22, 50, 60, 32, 49, 19, 28, 46, 77, 71, 46, 34, 27])
-print(result)
-
